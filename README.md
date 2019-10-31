@@ -72,5 +72,5 @@ ipython notebook
 ```
 
 ## Other errors?
-Submit an issue on Github, and I'll do my best to help you out!
+Submit an issue on Github, and I'll do my best to help you out!.
 
